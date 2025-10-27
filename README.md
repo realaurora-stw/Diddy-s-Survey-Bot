@@ -28,12 +28,6 @@ Use LEFT ALT + CLICK on any browser window to take a screenshot and send to the 
 Install them with:
 
 ```bash
-pip install -r requirements.txt
-```
-
-Or manually:
-
-```bash
 pip install python-dotenv google-generativeai pynput pillow mss pywin32 PyQt6
 ```
 
@@ -44,7 +38,7 @@ pip install python-dotenv google-generativeai pynput pillow mss pywin32 PyQt6
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/survey-helper-bot.git
+git clone https://github.com/realaurora-stw/survey-helper-bot.git
 cd survey-helper-bot
 ```
 
